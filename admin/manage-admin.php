@@ -70,7 +70,6 @@
                         //Display the Values in our Table
 
             ?>
-
                         <tr>
                             <td><?php echo $sn++; ?></td>
                             <td><?php echo $full_name; ?></td>
